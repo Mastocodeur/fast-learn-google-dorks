@@ -138,6 +138,9 @@ AI after:2024-01-01 site:techcrunch.com
 # Terme précis proche d’un autre
 "cloud" AROUND(5) "security"
 
+# Trouver des profils Data Scientist Senior qui ont la compétence Dataiku sur Linkedin (et exclure ceux qui travaillent à Dataiku)
+site:linkedin.com/in ("Senior Data Scientist") "Dataiku" -intitle:"Dataiku" -inurl:dataiku
+
 ```
 
 ___
