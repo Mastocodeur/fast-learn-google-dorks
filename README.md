@@ -89,6 +89,7 @@ ___
 | `after:` | Résultats publiés après une date | `AI after:2023-01-01` |
 
 Format date : `YYYY-MM-DD`
+Peuvent être combinés pour définir une date ou une période.
 
 ## Intervalle numérique
 
