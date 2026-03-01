@@ -144,9 +144,10 @@ ___
 # Sources et Sites
 
 
-* Google Hacking Databse : https://www.exploit-db.com/google-hacking-database?utm_source=chatgpt.com
+* Google Hacking Databse : https://www.exploit-db.com/google-hacking-database
 * Awesome-Google-Dorks : https://github.com/Tobee1406/Awesome-Google-Dorks
 * https://www.compass-security.com/fileadmin/Research/White_Papers/2017-01_osint_cheat_sheet.pdf
+* Google recherche avancée : https://www.google.com/advanced_search
 
 
 
